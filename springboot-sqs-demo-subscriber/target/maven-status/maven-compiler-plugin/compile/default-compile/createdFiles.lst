@@ -1,0 +1,4 @@
+com/sqs/push/demo/service/QueuePoller.class
+com/sqs/push/demo/repository/CalculatorRepository.class
+com/sqs/push/demo/entity/MathOperation.class
+com/sqs/push/demo/SqsPullApplication.class

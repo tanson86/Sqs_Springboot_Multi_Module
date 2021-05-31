@@ -1,0 +1,4 @@
+/Users/tansonthomas/Altran_WS/WS1/springboot-sqs-demo-multimodule/springboot-sqs-demo-subscriber/src/main/java/com/sqs/push/demo/SqsPullApplication.java
+/Users/tansonthomas/Altran_WS/WS1/springboot-sqs-demo-multimodule/springboot-sqs-demo-subscriber/src/main/java/com/sqs/push/demo/service/QueuePoller.java
+/Users/tansonthomas/Altran_WS/WS1/springboot-sqs-demo-multimodule/springboot-sqs-demo-subscriber/src/main/java/com/sqs/push/demo/repository/CalculatorRepository.java
+/Users/tansonthomas/Altran_WS/WS1/springboot-sqs-demo-multimodule/springboot-sqs-demo-subscriber/src/main/java/com/sqs/push/demo/entity/MathOperation.java

@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: foo
+      secret-key: bar
+    end-point:
+      uri: http://localhost:4566/000000000000/calculation-queue
+
+
+server:
+  port: 9091

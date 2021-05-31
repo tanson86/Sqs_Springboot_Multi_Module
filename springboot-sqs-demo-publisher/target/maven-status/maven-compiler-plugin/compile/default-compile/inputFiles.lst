@@ -1,0 +1,3 @@
+/Users/tansonthomas/Altran_WS/WS1/springboot-sqs-demo-multimodule/springboot-sqs-demo-publisher/src/main/java/com/sqs/push/demo/SqsPushApplication.java
+/Users/tansonthomas/Altran_WS/WS1/springboot-sqs-demo-multimodule/springboot-sqs-demo-publisher/src/main/java/com/sqs/push/demo/controller/SqsPushDemoController.java
+/Users/tansonthomas/Altran_WS/WS1/springboot-sqs-demo-multimodule/springboot-sqs-demo-publisher/src/main/java/com/sqs/push/demo/config/AmazonSQSConfiguration.java
